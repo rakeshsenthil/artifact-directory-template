@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Healthcare: Adversarial Defense In Medical Deep Learning Systems 
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In order to combat against such adversarial instances, there needs to be robust training done with these models in order to best protect against the methods that these attacks use on deep learning systems. In the scope of this paper, we will be looking into the methods of fast gradient signed method and projected gradient descent, two methods used in adversarial attacks to maximize loss functions and cause the affected system to make opposing predictions, in order to train our models against them and allow for stronger accuracy when faced with adversarial examples. 
